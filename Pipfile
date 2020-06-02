@@ -5,6 +5,8 @@ verify_ssl = true
 
 [dev-packages]
 jupyter = "*"
+notebook = "*"
+pylint = "*"
 
 [packages]
 django = "~=2.2.4"
