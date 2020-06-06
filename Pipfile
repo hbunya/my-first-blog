@@ -9,7 +9,7 @@ notebook = "*"
 pylint = "*"
 
 [packages]
-django = "~=2.2.4"
+django = "~=2.2.13"
 
 [requires]
 python_version = "3.7"
